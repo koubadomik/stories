@@ -1,0 +1,1 @@
+- kwargs funguji jako klic a hodnota libovolne delky
